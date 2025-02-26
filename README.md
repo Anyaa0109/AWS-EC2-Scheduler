@@ -1,6 +1,3 @@
-
-
-Readme
 AWS EC2 Scheduler (Auto Start/Stop EC2)
 🚀 Overview
 This project automates the starting and stopping of an AWS EC2 instance on a schedule using AWS Lambda and Amazon EventBridge (CloudWatch Events). This helps reduce costs by running instances only when needed.
